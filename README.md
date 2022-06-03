@@ -1,6 +1,6 @@
-# Hi, I'm Manas Pant (💻💖☕)
+<img alt="Wave" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Manas</h2>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>&nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and researcher at Deloitte.
 🎓&nbsp;I graduated from GB Pant University of Agriculture and Technology, Pantnagar (B.Tech, Computer Science and Engineering, Batch of 2019).\
@@ -10,7 +10,7 @@
 💬 &nbsp;I am open to any recommendation and suggestions.
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">&nbsp;Languages
+## 🛠 &nbsp;Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,7 +22,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">&nbsp;Frameworks
+## 🛠 &nbsp;Frameworks
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -51,7 +51,7 @@
 
 </a>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> &nbsp;Connect with me
+## 🤝🏻 &nbsp;Connect with Me
 <br />
 <p align="left">
 <a href="https://www.linkedin.com/in/manas-pant-a61666216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-21a229211" height="30" width="40" /></a>
