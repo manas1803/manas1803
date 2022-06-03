@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Deloitte.
+💡 &nbsp; I'm a software developer and researcher at Deloitte. \
 🎓&nbsp;I graduated from GB Pant University of Agriculture and Technology, Pantnagar (B.Tech, Computer Science and Engineering, Batch of 2019).\
 🌱 &nbsp;I'm on track for learning more about Frontend Technologies.\
 ✍️ &nbsp;In my free time, I play chess, badminton and LAN games.\
